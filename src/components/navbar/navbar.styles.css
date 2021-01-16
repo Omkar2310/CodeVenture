@@ -1,0 +1,17 @@
+.color-nav{
+    background-color: black;
+}
+.navbar-dark .navbar-brand {
+    color:white;
+    font-size: x-large;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-radius: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-size: large;
+    font-family:cursive;
+    padding: 25px;
+}

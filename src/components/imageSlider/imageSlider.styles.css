@@ -51,7 +51,7 @@
 
 .slider {
     position: relative;
-    height: 80vh;
+    height: 100vh;
 }
 
 .slide {
@@ -74,7 +74,7 @@
 
 .slide.active {
     opacity: 1;
-    transition-duration: 1s ease;
+    transition-duration: 2s ease;
 }
 
 .image {
