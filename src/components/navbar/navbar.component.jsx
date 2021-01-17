@@ -12,8 +12,8 @@ const NavBar = () => (
       <Nav.Link  href="#home">Home</Nav.Link>
       <Nav.Link href="#about">About</Nav.Link>
       <Nav.Link  href="#skills">Skills</Nav.Link>
-      <Nav.Link  href="#link3">Project</Nav.Link>
-      <Nav.Link href="#link4">Contact</Nav.Link>
+      <Nav.Link  href="#projects">Project</Nav.Link>
+      <Nav.Link href="#contact">Contact</Nav.Link>
       {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>

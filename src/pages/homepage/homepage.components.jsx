@@ -11,6 +11,7 @@ import {Particles} from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
 import ContactForm from '../contact/contact.components';
 import FooterPanel from '../../components/footer/footer.components';
+import ProjTimeLine from '../../components/timeline/timeline.components';
 
 const HomePage = () => {
     return (
@@ -34,8 +35,18 @@ const HomePage = () => {
               <Skills />
               </Slide>
             </Container>
+
+           
           </div>
-         
+
+          
+          <Container className="container-box rounded">
+            <Slide bottom duration={500}>
+              <hr />
+              <ProjTimeLine />
+            </Slide>
+            </Container>
+
           <Container className="container-box rounded">
             <Fade duration={500}>
             <hr />
