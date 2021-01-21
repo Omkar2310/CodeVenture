@@ -54,12 +54,7 @@ export const skills = {
     }
   ],
   backend: [
-    {
-      link: "https://nodejs.org/en/",
-      imgAltText: "Node.js",
-      imgSrc: L_NODE_JS,
-      skillName: "Node.js",
-    },
+    
     {
       link: "https://www.java.com/",
       imgAltText: "Java",

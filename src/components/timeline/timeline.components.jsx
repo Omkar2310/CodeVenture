@@ -124,7 +124,12 @@ const ProjTimeLine = () => {
                 </Accordion>
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
-                
+              <UrlButton
+                  href="https://swadeshimart.herokuapp.com/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
                 <UrlButton
                   href="https://github.com/Omkar2310/smart"
                   target="_blank"
@@ -233,7 +238,12 @@ const ProjTimeLine = () => {
                 </Accordion>
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
-                
+              <UrlButton
+                  href="https://clone-f2c03.firebaseapp.com"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
                 <UrlButton
                   href="https://github.com/Omkar2310/amazon-clone"
                   target="_blank"
