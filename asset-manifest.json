@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/CodeVenture/static/css/main.40172d88.chunk.css",
+    "main.js": "/CodeVenture/static/js/main.beb7215f.chunk.js",
+    "main.js.map": "/CodeVenture/static/js/main.beb7215f.chunk.js.map",
+    "runtime-main.js": "/CodeVenture/static/js/runtime-main.eec39969.js",
+    "runtime-main.js.map": "/CodeVenture/static/js/runtime-main.eec39969.js.map",
+    "static/js/2.9a9f177a.chunk.js": "/CodeVenture/static/js/2.9a9f177a.chunk.js",
+    "static/js/2.9a9f177a.chunk.js.map": "/CodeVenture/static/js/2.9a9f177a.chunk.js.map",
+    "index.html": "/CodeVenture/index.html",
+    "static/css/main.40172d88.chunk.css.map": "/CodeVenture/static/css/main.40172d88.chunk.css.map",
+    "static/js/2.9a9f177a.chunk.js.LICENSE.txt": "/CodeVenture/static/js/2.9a9f177a.chunk.js.LICENSE.txt",
+    "static/media/C++.2441702d.svg": "/CodeVenture/static/media/C++.2441702d.svg",
+    "static/media/amazon.ef486313.webp": "/CodeVenture/static/media/amazon.ef486313.webp",
+    "static/media/android.a222350a.svg": "/CodeVenture/static/media/android.a222350a.svg",
+    "static/media/contact.styles.css": "/CodeVenture/static/media/background.48c0b661.webp",
+    "static/media/bootstrap-4.997c463d.svg": "/CodeVenture/static/media/bootstrap-4.997c463d.svg",
+    "static/media/css3.8fba365c.svg": "/CodeVenture/static/media/css3.8fba365c.svg",
+    "static/media/deepl.9c388774.svg": "/CodeVenture/static/media/deepl.9c388774.svg",
+    "static/media/django.0779fca2.svg": "/CodeVenture/static/media/django.0779fca2.svg",
+    "static/media/firebase.82a35fc0.svg": "/CodeVenture/static/media/firebase.82a35fc0.svg",
+    "static/media/github.740db6be.svg": "/CodeVenture/static/media/github.740db6be.svg",
+    "static/media/heroku.73be03b3.svg": "/CodeVenture/static/media/heroku.73be03b3.svg",
+    "static/media/html-5.821ba738.svg": "/CodeVenture/static/media/html-5.821ba738.svg",
+    "static/media/java.b5e184a5.svg": "/CodeVenture/static/media/java.b5e184a5.svg",
+    "static/media/javascript.ba40d6a9.svg": "/CodeVenture/static/media/javascript.ba40d6a9.svg",
+    "static/media/malnutrition_app.dc4f5802.webp": "/CodeVenture/static/media/malnutrition_app.dc4f5802.webp",
+    "static/media/mongodb.d89a6eeb.svg": "/CodeVenture/static/media/mongodb.d89a6eeb.svg",
+    "static/media/mysql.43de11b6.svg": "/CodeVenture/static/media/mysql.43de11b6.svg",
+    "static/media/nodejs.52cbf9a8.svg": "/CodeVenture/static/media/nodejs.52cbf9a8.svg",
+    "static/media/pothole_detect.211de8cf.webp": "/CodeVenture/static/media/pothole_detect.211de8cf.webp",
+    "static/media/profile.2e61f481.webp": "/CodeVenture/static/media/profile.2e61f481.webp",
+    "static/media/python.e6d7dc73.svg": "/CodeVenture/static/media/python.e6d7dc73.svg",
+    "static/media/react.add74742.svg": "/CodeVenture/static/media/react.add74742.svg",
+    "static/media/smart.a8c1d1fd.webp": "/CodeVenture/static/media/smart.a8c1d1fd.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec39969.js",
+    "static/js/2.9a9f177a.chunk.js",
+    "static/css/main.40172d88.chunk.css",
+    "static/js/main.beb7215f.chunk.js"
+  ]
+}
