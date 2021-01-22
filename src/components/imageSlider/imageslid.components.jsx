@@ -71,7 +71,7 @@ const ImageSlider = () => {
         {slides.map((s, i) => (
           <div
             className={i === curr ? "slide active" : "slide"}
-            key={s.title}
+            key={s.id}
             aria-hidden={i !== curr}
           >
             <div>

@@ -37,7 +37,7 @@ const ContactForm = () => {
             <div className="m-2">
               <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
                 <Button id="youtube-btn" variant="outline-info" title="Lets code together!">
-                <i class="fab fa-youtube"></i> Youtube
+                <i className="fab fa-youtube"></i> Youtube
                 </Button>
               </a>
             </div>
